@@ -5,5 +5,7 @@ public class Exam0406 {
 
         int a1, a2 = 200, a3, a4 = 400, a5;
 
+            System.out.println(a1);
+  
     }
 }

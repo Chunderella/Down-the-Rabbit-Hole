@@ -76,7 +76,6 @@ public class BoardHandler {
       System.out.printf("%d\t%s\t%d\t%s\t%s\n",
           board.no, board.title, board.viewCount, board.writer, dateStr);
     }
-
   }
 
   private void onDetail() {
